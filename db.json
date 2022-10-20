@@ -1,0 +1,86 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone 13",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 1100,
+      "comment": "New Phone",
+      "date": "2022-10-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Nokia",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 200,
+      "comment": "Old Phone",
+      "date": "2022-10-18T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "New ",
+      "date": "2022-10-18T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Fresh Banana",
+      "date": "2022-10-18T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fresh",
+      "date": "2022-10-18T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Brinjal",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "Fresh",
+      "date": "2022-10-18T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Charger",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "New",
+      "date": "2022-10-18T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "New Product",
+      "date": "2022-10-19T18:30:00.000Z",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
